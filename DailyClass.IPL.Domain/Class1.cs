@@ -1,0 +1,1 @@
+﻿namespace DailyClass.IPL.Domain;
